@@ -18,7 +18,7 @@ public class CreatingCourierTest {
                 .header("Content-type", "application/json")
                 .and()
                 .body("{\n" +
-                        "    \"login\": \"iadddzvnn\",\n" +
+                        "    \"login\": \"iadzdzvnn\",\n" +
                         "    \"password\": \"1234\",\n" +
                         "    \"firstName\": \"saskee\"\n" +
                         "}")
@@ -34,7 +34,7 @@ public class CreatingCourierTest {
                 .header("Content-type", "application/json")
                 .and()
                 .body("{\n" +
-                        "    \"login\": \"iadddzvnn\",\n" +
+                        "    \"login\": \"iadzdzvnn\",\n" +
                         "    \"password\": \"1234\",\n" +
                         "    \"firstName\": \"saskee\"\n" +
                         "}")
@@ -61,3 +61,4 @@ public class CreatingCourierTest {
 
 
 }
+
