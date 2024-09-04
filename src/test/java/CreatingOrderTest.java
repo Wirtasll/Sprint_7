@@ -1,7 +1,6 @@
 import io.restassured.RestAssured;
 import org.junit.Before;
 import org.junit.Test;
-
 import static io.restassured.RestAssured.given;
 public class CreatingOrderTest {
     @Before
